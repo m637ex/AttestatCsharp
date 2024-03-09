@@ -1,0 +1,14 @@
+G:\YandexDisk\GB\AttestatCsharp\task3\bin\Debug\net8.0\task3.exe
+G:\YandexDisk\GB\AttestatCsharp\task3\bin\Debug\net8.0\task3.deps.json
+G:\YandexDisk\GB\AttestatCsharp\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+G:\YandexDisk\GB\AttestatCsharp\task3\bin\Debug\net8.0\task3.dll
+G:\YandexDisk\GB\AttestatCsharp\task3\bin\Debug\net8.0\task3.pdb
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\task3.dll
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\refint\task3.dll
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\task3.pdb
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+G:\YandexDisk\GB\AttestatCsharp\task3\obj\Debug\net8.0\ref\task3.dll
