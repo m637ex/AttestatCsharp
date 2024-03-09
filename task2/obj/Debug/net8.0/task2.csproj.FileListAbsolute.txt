@@ -1,0 +1,14 @@
+G:\YandexDisk\GB\AttestatCsharp\task2\bin\Debug\net8.0\task2.exe
+G:\YandexDisk\GB\AttestatCsharp\task2\bin\Debug\net8.0\task2.deps.json
+G:\YandexDisk\GB\AttestatCsharp\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+G:\YandexDisk\GB\AttestatCsharp\task2\bin\Debug\net8.0\task2.dll
+G:\YandexDisk\GB\AttestatCsharp\task2\bin\Debug\net8.0\task2.pdb
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\task2.dll
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\refint\task2.dll
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\task2.pdb
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+G:\YandexDisk\GB\AttestatCsharp\task2\obj\Debug\net8.0\ref\task2.dll
